@@ -1,0 +1,7 @@
+*.pyc
+log
+py*env
+.idea
+demo/settings_local.py
+*/migrations
+*.pid
