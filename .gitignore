@@ -2,3 +2,4 @@
 logs
 py*env
 .idea
+demo/settings_local.py
