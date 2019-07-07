@@ -1,0 +1,1 @@
+default_app_config = 'problem1.apps.Problem1Config'
